@@ -17,7 +17,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Auxilus08&show_icons=true&locale=en&layout=compact" alt="Auxilus08" /></p>
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/:Auxilus08)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Auxilus08&show_icons=true&locale=en" alt="Auxilus08" /></p>
