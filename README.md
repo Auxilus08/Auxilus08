@@ -21,3 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Auxilus08&show_icons=true&locale=en" alt="Auxilus08" /></p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Auxilus08&theme=react" alt="Auxilus's GitHub Contribution"/>
+
