@@ -26,4 +26,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=auxilus08&show_icons=true&locale=en&layout=compact" alt="auxilus08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auxilus08&" alt="auxilus08" /></p>
+<img src="https://raw.githubusercontent.com/Auxilus08/Auxilus08/output/snake.svg" alt="Snake animation" />
+
+
