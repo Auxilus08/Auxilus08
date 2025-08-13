@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **try.akshat8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15IWOXLV3nn2sDxdcJ1aSyp6jkZytHX7P/view?usp=sharing](https://drive.google.com/file/d/15IWOXLV3nn2sDxdcJ1aSyp6jkZytHX7P/view?usp=sharing)
+- 📄 Download my [Resume](https://drive.google.com/file/d/15IWOXLV3nn2sDxdcJ1aSyp6jkZytHX7P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
