@@ -1,1 +1,1 @@
-![Terminal GIF](output.mp4)
+![Terminal GIF](output.gif)
